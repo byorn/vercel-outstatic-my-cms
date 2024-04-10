@@ -1,6 +1,6 @@
 {
   "commit": "d868735f776a4cb5dc85427a2b525da9eec88306",
-  "generated": "2024-04-10T10:52:36.903Z",
+  "generated": "2024-04-10T10:55:36.411Z",
   "metadata": [
     {
       "__outstatic": {
@@ -123,19 +123,19 @@
     {
       "__outstatic": {
         "commit": "d868735f776a4cb5dc85427a2b525da9eec88306",
-        "hash": "134608085",
+        "hash": "3373281178",
         "path": "outstatic/content/projects/bearbnb.md"
       },
       "author": {
         "name": "Andre Vitorio"
       },
       "collection": "projects",
-      "coverImage": "/images/image-YyMj.webp",
+      "coverImage": "/images/image-E1Mj.webp",
       "description": "Amazing rental locations for your teddy bear.",
       "publishedAt": "2022-03-17T05:35:07.322Z",
       "slug": "bearbnb",
       "status": "published",
-      "title": "@ Byorns-Playground"
+      "title": "My AWS Amplify Project."
     }
   ]
 }

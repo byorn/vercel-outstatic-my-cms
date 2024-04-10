@@ -1,12 +1,14 @@
 ---
-title: '@ Byorns-Playground'
+title: 'My AWS Amplify Project.'
 status: 'published'
 description: 'Amazing rental locations for your teddy bear.'
-coverImage: '/images/image-YyMj.webp'
+coverImage: '/images/image-E1Mj.webp'
 author:
   name: 'Andre Vitorio'
 slug: 'bearbnb'
 publishedAt: '2022-03-17T05:35:07.322Z'
 ---
+
+![](/images/image-UyMD.webp)
 
 [www.byorns-playground.com](http://www.byorns-playground.com) is where I test all the UI components I build.
