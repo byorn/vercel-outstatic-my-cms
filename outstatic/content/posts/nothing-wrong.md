@@ -10,7 +10,7 @@ tags: [{"label":"Thought provoking","value":"thoughtProvoking"}]
 publishedAt: '2022-09-14T17:55:40.452Z'
 ---
 
-I've come to a profound realisation in this chapter of my life: the very essence of existence seems to reside in paradoxes. It's the imperfect and the unfinished aspects of life that somehow render it perfect. While I don't subscribe to the notion of life being flawless, I do advocate for the pursuit of perfection, recognizing it as a journey rather than a destination.
+I've come to a profound realisation in this chapter of my life: the very essence of existence seems to reside in paradoxes. It's the imperfect and the unfinished aspects of life that somehow render it perfect. While I don't subscribe to the notion of life being flawless, I do advocate for the pursuit of perfection, recognising it as a journey rather than a destination.
 
 Delving into the realm of coding is akin to embarking on a thrilling voyage of self-discovery. It's about embracing the artistry unfolding within oneself, rather than fixating solely on the end result. When you're attuned to this, coding becomes an exhilarating dance with creativity and problem-solving, free from the shackles of mere utilitarianism.
 
