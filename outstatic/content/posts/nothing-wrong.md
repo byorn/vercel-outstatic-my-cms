@@ -2,9 +2,10 @@
 title: 'Nothing is wrong. Everything is perfect'
 status: 'published'
 author:
-  name: 'Andre Vitorio'
+  name: 'Byorn de silva'
+  picture: 'https://media.licdn.com/dms/image/D5635AQEKhjEy-qovjA/profile-framedphoto-shrink_400_400/0/1709272163725?e=1713751200&v=beta&t=3dD7bi1FBt8KYwJVMF6NNiAfiMxoW1UB1PKgnxqlrtQ'
 slug: 'nothing-wrong'
-description: 'One more day, one more joy. I feel blessed.'
+description: 'The perfect imperfection'
 coverImage: '/images/industrial-pattern.png'
 tags: [{"label":"Thought provoking","value":"thoughtProvoking"}]
 publishedAt: '2022-09-14T17:55:40.452Z'
