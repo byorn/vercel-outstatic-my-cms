@@ -1,6 +1,6 @@
 {
-  "commit": "2175012214f8c4acb46ff8c442419f9f1046fd7f",
-  "generated": "2024-04-15T02:01:04.704Z",
+  "commit": "ae45bec267ac8dd68a3f54d962b75174dec9330e",
+  "generated": "2024-04-15T03:41:59.068Z",
   "metadata": [
     {
       "__outstatic": {
@@ -104,24 +104,6 @@
     },
     {
       "__outstatic": {
-        "commit": "3f3bad61793b936ba3d20e8401488b7fa5acb23a",
-        "hash": "507681162",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
         "commit": "2175012214f8c4acb46ff8c442419f9f1046fd7f",
         "hash": "2783454267",
         "path": "outstatic/content/posts/nothing-wrong.md"
@@ -143,6 +125,24 @@
         }
       ],
       "title": "Nothing is wrong. Everything is perfect"
+    },
+    {
+      "__outstatic": {
+        "commit": "ae45bec267ac8dd68a3f54d962b75174dec9330e",
+        "hash": "1433978812",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Byorn de Silva",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "/images/pxl_20230715_070207512-Y4MD.jpg",
+      "description": "This is my blog.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
