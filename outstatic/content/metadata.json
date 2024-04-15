@@ -1,6 +1,6 @@
 {
-  "commit": "defb31e3fc0717478bd65fd3c20806d6244b569f",
-  "generated": "2024-04-15T01:46:11.910Z",
+  "commit": "3f3bad61793b936ba3d20e8401488b7fa5acb23a",
+  "generated": "2024-04-15T01:48:02.988Z",
   "metadata": [
     {
       "__outstatic": {
@@ -104,24 +104,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7dcf76cd2d40788ba620e200c6c54600aac05d79",
-        "hash": "1356056695",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
         "commit": "defb31e3fc0717478bd65fd3c20806d6244b569f",
         "hash": "3763908705",
         "path": "outstatic/content/posts/nothing-wrong.md"
@@ -138,6 +120,24 @@
       "tags": [
       ],
       "title": "Nothing is wrong. Everything is perfect"
+    },
+    {
+      "__outstatic": {
+        "commit": "3f3bad61793b936ba3d20e8401488b7fa5acb23a",
+        "hash": "507681162",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
