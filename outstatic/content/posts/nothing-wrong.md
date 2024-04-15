@@ -8,7 +8,7 @@ slug: 'nothing-wrong'
 description: 'The perfect imperfection'
 coverImage: '/images/industrial-pattern.png'
 tags: [{"label":"Thought provoking","value":"thoughtProvoking"}]
-publishedAt: '2022-09-14T17:55:40.452Z'
+publishedAt: '2023-12-31T16:55:40.000Z'
 ---
 
 I've come to a profound realisation in this chapter of my life: the very essence of existence seems to reside in paradoxes. It's the imperfect and the unfinished aspects of life that somehow render it perfect. While I don't subscribe to the notion of life being flawless, I do advocate for the pursuit of perfection, recognising it as a journey rather than a destination.
