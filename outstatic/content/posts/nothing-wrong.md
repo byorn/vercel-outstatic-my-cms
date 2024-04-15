@@ -7,7 +7,7 @@ author:
 slug: 'nothing-wrong'
 description: 'The perfect imperfection'
 coverImage: '/images/industrial-pattern.png'
-tags: [{"label":"Thought provoking","value":"thoughtProvoking"}]
+tags: []
 publishedAt: '2023-12-31T16:55:40.000Z'
 ---
 
@@ -17,7 +17,7 @@ Delving into the realm of coding is akin to embarking on a thrilling voyage of s
 
 In essence, the pursuit of "perfect completion" often proves to be the very antithesis of joy. It's in the acceptance of imperfection and the appreciation of the process that the true essence of satisfaction reveals itself.
 
-Only a few of us love reading code.  Heres a snippet to what happens when your program is self aware :
+Only a few of us love reading code. Heres a snippet to what happens when your program is self aware :
 
 ```go
 package main

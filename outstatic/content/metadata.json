@@ -1,6 +1,6 @@
 {
-  "commit": "ae45bec267ac8dd68a3f54d962b75174dec9330e",
-  "generated": "2024-04-15T03:41:59.068Z",
+  "commit": "ccbc81017c32144aa3d4ed41a84b55b057474378",
+  "generated": "2024-04-15T11:41:39.888Z",
   "metadata": [
     {
       "__outstatic": {
@@ -104,30 +104,6 @@
     },
     {
       "__outstatic": {
-        "commit": "2175012214f8c4acb46ff8c442419f9f1046fd7f",
-        "hash": "2783454267",
-        "path": "outstatic/content/posts/nothing-wrong.md"
-      },
-      "author": {
-        "name": "Byorn de silva",
-        "picture": "https://media.licdn.com/dms/image/D5635AQEKhjEy-qovjA/profile-framedphoto-shrink_400_400/0/1709272163725?e=1713751200&v=beta&t=3dD7bi1FBt8KYwJVMF6NNiAfiMxoW1UB1PKgnxqlrtQ"
-      },
-      "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "The perfect imperfection",
-      "publishedAt": "2023-12-31T16:55:40.000Z",
-      "slug": "nothing-wrong",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Thought provoking",
-          "value": "thoughtProvoking"
-        }
-      ],
-      "title": "Nothing is wrong. Everything is perfect"
-    },
-    {
-      "__outstatic": {
         "commit": "ae45bec267ac8dd68a3f54d962b75174dec9330e",
         "hash": "1433978812",
         "path": "outstatic/content/pages/home.md"
@@ -143,6 +119,26 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "ccbc81017c32144aa3d4ed41a84b55b057474378",
+        "hash": "1190480604",
+        "path": "outstatic/content/posts/nothing-wrong.md"
+      },
+      "author": {
+        "name": "Byorn de silva",
+        "picture": "https://media.licdn.com/dms/image/D5635AQEKhjEy-qovjA/profile-framedphoto-shrink_400_400/0/1709272163725?e=1713751200&v=beta&t=3dD7bi1FBt8KYwJVMF6NNiAfiMxoW1UB1PKgnxqlrtQ"
+      },
+      "collection": "posts",
+      "coverImage": "/images/industrial-pattern.png",
+      "description": "The perfect imperfection",
+      "publishedAt": "2023-12-31T16:55:40.000Z",
+      "slug": "nothing-wrong",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Nothing is wrong. Everything is perfect"
     }
   ]
 }
