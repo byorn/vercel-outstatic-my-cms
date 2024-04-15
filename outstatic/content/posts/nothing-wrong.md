@@ -1,24 +1,25 @@
 ---
 title: 'Nothing is wrong. Everything is perfect'
-status: 'published'
+status: 'draft'
 author:
   name: 'Andre Vitorio'
 slug: 'nothing-wrong'
 description: 'One more day, one more joy. I feel blessed.'
 coverImage: '/images/industrial-pattern.png'
+tags: ''
 publishedAt: '2022-09-14T17:55:40.452Z'
 ---
 
-Everything's good with me, my fam and my dreams are coming true. One at a time, one at a time.
+I am in a stage in my life realising that most things in life is a paradox. The fact that everything is incomplete and imperfect makes everything perfect. I don't believe in life to be perfect but I do believe in thriving for perfection.
 
-## I love it!
+## Writing code is fun, when you are self aware the craft that takes place within you and not be carried away looking for a means to an end. 
 
-Nothing feels unachievable, when I see you smile and look to the horizon. We can take it, life's short but it's enough time to be happy. Love it.
+In short the joy goes away if you try too hard for the "perfect completion" 
+
+Only a few of us find joy in the code 
 
 ```javascript
 const life = 'is great'
 let love = 'is essential'
 let happy = 'be'
 ```
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.

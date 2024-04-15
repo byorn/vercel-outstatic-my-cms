@@ -1,6 +1,6 @@
 {
-  "commit": "7dcf76cd2d40788ba620e200c6c54600aac05d79",
-  "generated": "2024-04-15T01:37:22.499Z",
+  "commit": "defb31e3fc0717478bd65fd3c20806d6244b569f",
+  "generated": "2024-04-15T01:46:11.910Z",
   "metadata": [
     {
       "__outstatic": {
@@ -49,23 +49,6 @@
       "slug": "the-wrong-decision",
       "status": "published",
       "title": "If you want to make the wrong decision, ask everyone"
-    },
-    {
-      "__outstatic": {
-        "commit": "d2f316fd04def3347c906f5227da5daf79971f61",
-        "hash": "4086614036",
-        "path": "/outstatic/content/posts/nothing-wrong.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
-      "status": "published",
-      "title": "Nothing is wrong. Everything is perfect"
     },
     {
       "__outstatic": {
@@ -136,6 +119,25 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "defb31e3fc0717478bd65fd3c20806d6244b569f",
+        "hash": "3763908705",
+        "path": "outstatic/content/posts/nothing-wrong.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/industrial-pattern.png",
+      "description": "One more day, one more joy. I feel blessed.",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "nothing-wrong",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Nothing is wrong. Everything is perfect"
     }
   ]
 }
