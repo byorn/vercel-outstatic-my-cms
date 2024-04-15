@@ -1,6 +1,6 @@
 {
-  "commit": "3f3bad61793b936ba3d20e8401488b7fa5acb23a",
-  "generated": "2024-04-15T01:48:02.988Z",
+  "commit": "2175012214f8c4acb46ff8c442419f9f1046fd7f",
+  "generated": "2024-04-15T01:58:05.491Z",
   "metadata": [
     {
       "__outstatic": {
@@ -104,25 +104,6 @@
     },
     {
       "__outstatic": {
-        "commit": "defb31e3fc0717478bd65fd3c20806d6244b569f",
-        "hash": "3763908705",
-        "path": "outstatic/content/posts/nothing-wrong.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
-      "status": "draft",
-      "tags": [
-      ],
-      "title": "Nothing is wrong. Everything is perfect"
-    },
-    {
-      "__outstatic": {
         "commit": "3f3bad61793b936ba3d20e8401488b7fa5acb23a",
         "hash": "507681162",
         "path": "outstatic/content/pages/home.md"
@@ -138,6 +119,29 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "2175012214f8c4acb46ff8c442419f9f1046fd7f",
+        "hash": "3386471379",
+        "path": "outstatic/content/posts/nothing-wrong.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/industrial-pattern.png",
+      "description": "One more day, one more joy. I feel blessed.",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "nothing-wrong",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Thought provoking",
+          "value": "thoughtProvoking"
+        }
+      ],
+      "title": "Nothing is wrong. Everything is perfect"
     }
   ]
 }
