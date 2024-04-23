@@ -1,6 +1,6 @@
 {
-  "commit": "d04f4a3f0c8937e4b8cc02bb88274a716369961d",
-  "generated": "2024-04-23T11:54:59.719Z",
+  "commit": "c0c05a01446f8717dbb2643762232ecb7f9d1698",
+  "generated": "2024-04-23T12:00:13.637Z",
   "metadata": [
     {
       "__outstatic": {
@@ -87,23 +87,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d868735f776a4cb5dc85427a2b525da9eec88306",
-        "hash": "3373281178",
-        "path": "outstatic/content/projects/bearbnb.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "projects",
-      "coverImage": "/images/image-E1Mj.webp",
-      "description": "Amazing rental locations for your teddy bear.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "bearbnb",
-      "status": "published",
-      "title": "My AWS Amplify Project."
-    },
-    {
-      "__outstatic": {
         "commit": "ae45bec267ac8dd68a3f54d962b75174dec9330e",
         "hash": "1433978812",
         "path": "outstatic/content/pages/home.md"
@@ -162,6 +145,23 @@
         }
       ],
       "title": "A Polyglot software engineer"
+    },
+    {
+      "__outstatic": {
+        "commit": "c0c05a01446f8717dbb2643762232ecb7f9d1698",
+        "hash": "1445444944",
+        "path": "outstatic/content/projects/hobby-project.md"
+      },
+      "author": {
+        "name": "Byorn de silva"
+      },
+      "collection": "projects",
+      "coverImage": "/images/download--1--Q3Nz.jpeg",
+      "description": "My Hobby NextJS Project deployed to AWS amplify.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "hobby-project",
+      "status": "published",
+      "title": "My AWS Amplify Project."
     }
   ]
 }

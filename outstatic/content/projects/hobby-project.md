@@ -1,11 +1,11 @@
 ---
 title: 'My AWS Amplify Project.'
 status: 'published'
-description: 'Amazing rental locations for your teddy bear.'
-coverImage: '/images/image-E1Mj.webp'
+description: 'My Hobby NextJS Project deployed to AWS amplify.'
+coverImage: '/images/download--1--Q3Nz.jpeg'
 author:
-  name: 'Andre Vitorio'
-slug: 'bearbnb'
+  name: 'Byorn de silva'
+slug: 'hobby-project'
 publishedAt: '2022-03-17T05:35:07.322Z'
 ---
 
