@@ -1,6 +1,6 @@
 {
   "commit": "0c8268eb376f799a171bf367a3991c4f01765791",
-  "generated": "2024-04-23T11:47:02.893Z",
+  "generated": "2024-04-23T11:47:19.594Z",
   "metadata": [
     {
       "__outstatic": {
@@ -32,6 +32,23 @@
         }
       ],
       "title": "Learn how to create your blog with Outstatic"
+    },
+    {
+      "__outstatic": {
+        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
+        "hash": "3707858083",
+        "path": "/outstatic/content/posts/the-wrong-decision.md"
+      },
+      "author": {
+        "name": "Naval Ravikant"
+      },
+      "collection": "posts",
+      "coverImage": "/images/skyline.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "slug": "the-wrong-decision",
+      "status": "published",
+      "title": "If you want to make the wrong decision, ask everyone"
     },
     {
       "__outstatic": {
@@ -126,7 +143,7 @@
     {
       "__outstatic": {
         "commit": "0c8268eb376f799a171bf367a3991c4f01765791",
-        "hash": "4094450261",
+        "hash": "2671865792",
         "path": "outstatic/content/posts/a-polyglot-coder.md"
       },
       "author": {

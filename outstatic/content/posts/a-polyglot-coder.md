@@ -6,13 +6,13 @@ coverImage: '/images/code-completions-M5MT.png'
 author:
   name: 'Naval Ravikant'
 slug: 'a-polyglot-coder'
-tags: ''
+tags: []
 publishedAt: '2022-03-26T05:35:07.322Z'
 ---
 
 I was contemplating my journey with writing code and tech in general. Yes I like to brag and think of my self as a privileged individual with a passion for computers and programming.
 
-I started writing in Java in 2003  Java 1.2 to be precise. I was involved in writing JSP and swing desktop application code for my employer.
+I started writing in Java in 2003 Java 1.2 to be precise. I was involved in writing JSP and swing desktop application code for my employer.
 
 But the year before that I was earning 5000 Srilankan rupees a month writing HRM and Payroll desktop clients in [Visual Basic, ](http://VB.NET)for a reputed banks CEO who had an idea for a startup.
 
@@ -30,6 +30,6 @@ Please find my GIT HUB repo [here](https://github.com/byorn/advent_of_code)
 
 I also wrote a web server in Rust. Git Hub Repo is [here](https://github.com/byorn/learning_rust/tree/main/src)
 
-I enjoy doing advent of code challenges, and my prefered language for that is Python.
+I enjoy doing advent of code challenges, and my preferred language for that is Python.
 
-Am in a stage of my life that I feel I can adapt to any code base and coding language and tech. 
+Am in a stage of my life that I feel I can adapt to any code base and coding language and tech.
