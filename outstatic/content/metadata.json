@@ -1,6 +1,6 @@
 {
-  "commit": "ccbc81017c32144aa3d4ed41a84b55b057474378",
-  "generated": "2024-04-15T11:41:39.888Z",
+  "commit": "0c8268eb376f799a171bf367a3991c4f01765791",
+  "generated": "2024-04-23T11:47:02.893Z",
   "metadata": [
     {
       "__outstatic": {
@@ -32,23 +32,6 @@
         }
       ],
       "title": "Learn how to create your blog with Outstatic"
-    },
-    {
-      "__outstatic": {
-        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
-        "hash": "3707858083",
-        "path": "/outstatic/content/posts/the-wrong-decision.md"
-      },
-      "author": {
-        "name": "Naval Ravikant"
-      },
-      "collection": "posts",
-      "coverImage": "/images/skyline.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
-      "slug": "the-wrong-decision",
-      "status": "published",
-      "title": "If you want to make the wrong decision, ask everyone"
     },
     {
       "__outstatic": {
@@ -139,6 +122,25 @@
       "tags": [
       ],
       "title": "Nothing is wrong. Everything is perfect"
+    },
+    {
+      "__outstatic": {
+        "commit": "0c8268eb376f799a171bf367a3991c4f01765791",
+        "hash": "4094450261",
+        "path": "outstatic/content/posts/a-polyglot-coder.md"
+      },
+      "author": {
+        "name": "Naval Ravikant"
+      },
+      "collection": "posts",
+      "coverImage": "/images/code-completions-M5MT.png",
+      "description": "Contemplating my journey with various coding languages",
+      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "slug": "a-polyglot-coder",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "A Polyglot software engineer"
     }
   ]
 }
