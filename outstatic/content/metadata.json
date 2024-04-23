@@ -1,6 +1,6 @@
 {
   "commit": "d04f4a3f0c8937e4b8cc02bb88274a716369961d",
-  "generated": "2024-04-23T11:49:33.857Z",
+  "generated": "2024-04-23T11:54:59.719Z",
   "metadata": [
     {
       "__outstatic": {
@@ -143,7 +143,7 @@
     {
       "__outstatic": {
         "commit": "d04f4a3f0c8937e4b8cc02bb88274a716369961d",
-        "hash": "3639175194",
+        "hash": "131681338",
         "path": "outstatic/content/posts/a-polyglot-coder.md"
       },
       "author": {
@@ -156,6 +156,10 @@
       "slug": "a-polyglot-coder",
       "status": "published",
       "tags": [
+        {
+          "label": "A little about me",
+          "value": "aLittleAboutMe"
+        }
       ],
       "title": "A Polyglot software engineer"
     }

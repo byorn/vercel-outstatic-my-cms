@@ -24,6 +24,10 @@
         {
           "value": "thoughtProvoking",
           "label": "Thought provoking"
+        },
+        {
+          "value": "aLittleAboutMe",
+          "label": "A little about me"
         }
       ]
     }
