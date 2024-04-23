@@ -1,6 +1,6 @@
 {
-  "commit": "0c8268eb376f799a171bf367a3991c4f01765791",
-  "generated": "2024-04-23T11:47:19.594Z",
+  "commit": "d04f4a3f0c8937e4b8cc02bb88274a716369961d",
+  "generated": "2024-04-23T11:49:33.857Z",
   "metadata": [
     {
       "__outstatic": {
@@ -142,17 +142,17 @@
     },
     {
       "__outstatic": {
-        "commit": "0c8268eb376f799a171bf367a3991c4f01765791",
-        "hash": "2671865792",
+        "commit": "d04f4a3f0c8937e4b8cc02bb88274a716369961d",
+        "hash": "3639175194",
         "path": "outstatic/content/posts/a-polyglot-coder.md"
       },
       "author": {
-        "name": "Naval Ravikant"
+        "name": "Byorn de Silva"
       },
       "collection": "posts",
       "coverImage": "/images/code-completions-M5MT.png",
       "description": "Contemplating my journey with various coding languages",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "publishedAt": "2023-03-23T05:35:07.000Z",
       "slug": "a-polyglot-coder",
       "status": "published",
       "tags": [

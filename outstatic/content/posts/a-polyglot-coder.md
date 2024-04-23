@@ -4,10 +4,10 @@ status: 'published'
 description: 'Contemplating my journey with various coding languages'
 coverImage: '/images/code-completions-M5MT.png'
 author:
-  name: 'Naval Ravikant'
+  name: 'Byorn de Silva'
 slug: 'a-polyglot-coder'
 tags: []
-publishedAt: '2022-03-26T05:35:07.322Z'
+publishedAt: '2023-03-23T05:35:07.000Z'
 ---
 
 I was contemplating my journey with writing code and tech in general. Yes I like to brag and think of my self as a privileged individual with a passion for computers and programming.
