@@ -1,7 +1,38 @@
 {
   "commit": "eef7520e1d20a027da7517a98ff153aaaaae4efb",
-  "generated": "2024-05-29T09:33:23.080Z",
+  "generated": "2024-05-29T09:33:36.179Z",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "bf4993b965319da4cb9de4a3810fb4af12bdebd6",
+        "hash": "2596208214",
+        "path": "/outstatic/content/posts/how-to-create-an-outstatic-blog.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/jupiter-spaceship.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-07-14T02:34:02.322Z",
+      "slug": "how-to-create-an-outstatic-blog",
+      "status": "published",
+      "tags": [
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        },
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        },
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "Learn how to create your blog with Outstatic"
+    },
     {
       "__outstatic": {
         "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
@@ -118,7 +149,7 @@
     {
       "__outstatic": {
         "commit": "eef7520e1d20a027da7517a98ff153aaaaae4efb",
-        "hash": "726754590",
+        "hash": "2778665790",
         "path": "outstatic/content/posts/what-i-am-currently-working-on.md"
       },
       "author": {
@@ -144,7 +175,7 @@
           "value": "outstatic"
         }
       ],
-      "title": "Whats am I currently building ?"
+      "title": "What am I currently building ?"
     }
   ]
 }
