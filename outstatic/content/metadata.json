@@ -1,38 +1,7 @@
 {
-  "commit": "f60d322ad2bc7e28f3ad6a49bfa405f62ebc3ad6",
-  "generated": "2024-05-29T09:14:48.139Z",
+  "commit": "eef7520e1d20a027da7517a98ff153aaaaae4efb",
+  "generated": "2024-05-29T09:33:23.080Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "bf4993b965319da4cb9de4a3810fb4af12bdebd6",
-        "hash": "2596208214",
-        "path": "/outstatic/content/posts/how-to-create-an-outstatic-blog.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/jupiter-spaceship.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-07-14T02:34:02.322Z",
-      "slug": "how-to-create-an-outstatic-blog",
-      "status": "published",
-      "tags": [
-        {
-          "label": "NextJs",
-          "value": "nextJs"
-        },
-        {
-          "label": "GitHub",
-          "value": "gitHub"
-        },
-        {
-          "label": "Outstatic",
-          "value": "outstatic"
-        }
-      ],
-      "title": "Learn how to create your blog with Outstatic"
-    },
     {
       "__outstatic": {
         "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
@@ -145,6 +114,37 @@
       "slug": "hobby-project",
       "status": "published",
       "title": "My AWS Amplify Project."
+    },
+    {
+      "__outstatic": {
+        "commit": "eef7520e1d20a027da7517a98ff153aaaaae4efb",
+        "hash": "726754590",
+        "path": "outstatic/content/posts/what-i-am-currently-working-on.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/317116-john-cena-quote-this-is-my-life-this-is-my-passion-this-is-all-i-QwOD.jpg",
+      "description": "Sharing my million dollar idea with the world, hoping that some one would not copy my idea but would like to work with me on this.",
+      "publishedAt": "2022-07-14T02:34:02.322Z",
+      "slug": "what-i-am-currently-working-on",
+      "status": "published",
+      "tags": [
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        },
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        },
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "Whats am I currently building ?"
     }
   ]
 }
