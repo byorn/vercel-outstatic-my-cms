@@ -5,7 +5,7 @@ description: 'Sharing my million dollar idea with the world, hoping that some on
 coverImage: '/images/317116-john-cena-quote-this-is-my-life-this-is-my-passion-this-is-all-i-QwOD.jpg'
 tags: [{"label":"NextJs","value":"nextJs"},{"label":"GitHub","value":"gitHub"},{"label":"Outstatic","value":"outstatic"}]
 author:
-  name: 'Andre Vitorio'
+  name: 'Byorn de Silva'
 slug: 'what-i-am-currently-working-on'
 publishedAt: '2022-07-14T02:34:02.322Z'
 ---

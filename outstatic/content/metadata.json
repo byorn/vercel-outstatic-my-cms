@@ -1,6 +1,6 @@
 {
-  "commit": "eef7520e1d20a027da7517a98ff153aaaaae4efb",
-  "generated": "2024-05-29T09:33:36.179Z",
+  "commit": "61a50f82ef94293f185b5a741191ef03f5e572a4",
+  "generated": "2024-05-29T09:38:54.450Z",
   "metadata": [
     {
       "__outstatic": {
@@ -148,12 +148,12 @@
     },
     {
       "__outstatic": {
-        "commit": "eef7520e1d20a027da7517a98ff153aaaaae4efb",
-        "hash": "2778665790",
+        "commit": "61a50f82ef94293f185b5a741191ef03f5e572a4",
+        "hash": "3696088515",
         "path": "outstatic/content/posts/what-i-am-currently-working-on.md"
       },
       "author": {
-        "name": "Andre Vitorio"
+        "name": "Byorn de Silva"
       },
       "collection": "posts",
       "coverImage": "/images/317116-john-cena-quote-this-is-my-life-this-is-my-passion-this-is-all-i-QwOD.jpg",
