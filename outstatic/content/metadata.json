@@ -1,6 +1,6 @@
 {
   "commit": "f60d322ad2bc7e28f3ad6a49bfa405f62ebc3ad6",
-  "generated": "2024-05-29T09:14:41.602Z",
+  "generated": "2024-05-29T09:14:48.139Z",
   "metadata": [
     {
       "__outstatic": {
@@ -52,20 +52,21 @@
     },
     {
       "__outstatic": {
-        "commit": "aa1f387e5c66347e675bed0862b070d8946c95f4",
-        "hash": "1055690014",
-        "path": "/outstatic/content/projects/couple-pizza.md"
+        "commit": "b22b0f4f3d38a659cbab9b89ac2b7394f2446de4",
+        "hash": "425893791",
+        "path": "/outstatic/content/projects/flycream-travel.md"
       },
       "author": {
-        "name": "Bob Marley"
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
       },
       "collection": "projects",
-      "coverImage": "/images/couple-pizza.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-16T05:35:07.322Z",
-      "slug": "couple-pizza",
+      "coverImage": "/images/flycream-travel.png",
+      "description": "One more day, one more joy. I feel blessed.",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "flycream-travel",
       "status": "published",
-      "title": "Couple Pizza"
+      "title": "Flycream Travel"
     },
     {
       "__outstatic": {
