@@ -1,6 +1,6 @@
 {
-  "commit": "2fd37715df8bbb867cdb218d4c12a81eab577363",
-  "generated": "2024-06-02T08:20:27.112Z",
+  "commit": "0f1d70afc51c6c15320e45b0c6ed70bb7fc13d03",
+  "generated": "2024-06-02T08:21:49.834Z",
   "metadata": [
     {
       "__outstatic": {
@@ -113,8 +113,8 @@
     },
     {
       "__outstatic": {
-        "commit": "2fd37715df8bbb867cdb218d4c12a81eab577363",
-        "hash": "2560411089",
+        "commit": "0f1d70afc51c6c15320e45b0c6ed70bb7fc13d03",
+        "hash": "2362176081",
         "path": "outstatic/content/projects/a-quick-overview-of-projects-i-worked-on-commercially.md"
       },
       "author": {
@@ -122,8 +122,8 @@
         "picture": "https://avatars.githubusercontent.com/u/962948?v=4"
       },
       "collection": "projects",
-      "coverImage": "",
-      "description": "",
+      "coverImage": "/images/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734-I3ND.webp",
+      "description": "A Quick overview of projects I worked on.",
       "publishedAt": "2024-06-02T09:08:38.022Z",
       "slug": "a-quick-overview-of-projects-i-worked-on-commercially",
       "status": "published",
