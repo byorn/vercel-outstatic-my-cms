@@ -1,5 +1,5 @@
 ---
-title: 'My AWS Amplify Project.'
+title: 'Byorn''s Playground'
 status: 'published'
 description: 'My Hobby NextJS Project deployed to AWS amplify.'
 coverImage: '/images/download--1--Q3Nz.jpeg'

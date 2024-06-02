@@ -1,6 +1,6 @@
 {
-  "commit": "61a50f82ef94293f185b5a741191ef03f5e572a4",
-  "generated": "2024-05-29T09:38:54.450Z",
+  "commit": "1e48ae097bab875d3e56ed98d7389a98a65eab78",
+  "generated": "2024-06-02T06:20:02.903Z",
   "metadata": [
     {
       "__outstatic": {
@@ -131,23 +131,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c0c05a01446f8717dbb2643762232ecb7f9d1698",
-        "hash": "1445444944",
-        "path": "outstatic/content/projects/hobby-project.md"
-      },
-      "author": {
-        "name": "Byorn de silva"
-      },
-      "collection": "projects",
-      "coverImage": "/images/download--1--Q3Nz.jpeg",
-      "description": "My Hobby NextJS Project deployed to AWS amplify.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "hobby-project",
-      "status": "published",
-      "title": "My AWS Amplify Project."
-    },
-    {
-      "__outstatic": {
         "commit": "61a50f82ef94293f185b5a741191ef03f5e572a4",
         "hash": "3696088515",
         "path": "outstatic/content/posts/what-i-am-currently-working-on.md"
@@ -176,6 +159,23 @@
         }
       ],
       "title": "What am I currently building ?"
+    },
+    {
+      "__outstatic": {
+        "commit": "1e48ae097bab875d3e56ed98d7389a98a65eab78",
+        "hash": "1336626966",
+        "path": "outstatic/content/projects/hobby-project.md"
+      },
+      "author": {
+        "name": "Byorn de silva"
+      },
+      "collection": "projects",
+      "coverImage": "/images/download--1--Q3Nz.jpeg",
+      "description": "My Hobby NextJS Project deployed to AWS amplify.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "hobby-project",
+      "status": "published",
+      "title": "Byorn's Playground"
     }
   ]
 }
