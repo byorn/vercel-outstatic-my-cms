@@ -1,6 +1,6 @@
 {
-  "commit": "1e48ae097bab875d3e56ed98d7389a98a65eab78",
-  "generated": "2024-06-02T06:20:02.903Z",
+  "commit": "2fd37715df8bbb867cdb218d4c12a81eab577363",
+  "generated": "2024-06-02T08:20:27.112Z",
   "metadata": [
     {
       "__outstatic": {
@@ -110,6 +110,24 @@
       "slug": "hobby-project",
       "status": "published",
       "title": "Byorn's Playground"
+    },
+    {
+      "__outstatic": {
+        "commit": "2fd37715df8bbb867cdb218d4c12a81eab577363",
+        "hash": "2560411089",
+        "path": "outstatic/content/projects/a-quick-overview-of-projects-i-worked-on-commercially.md"
+      },
+      "author": {
+        "name": "Byorn John De Silva",
+        "picture": "https://avatars.githubusercontent.com/u/962948?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-02T09:08:38.022Z",
+      "slug": "a-quick-overview-of-projects-i-worked-on-commercially",
+      "status": "published",
+      "title": "A quick overview of projects I worked on commercially."
     }
   ]
 }
