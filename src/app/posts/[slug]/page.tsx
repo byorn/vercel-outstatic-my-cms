@@ -8,6 +8,9 @@ import { getDocumentSlugs, load } from 'outstatic/server'
 import DateFormatter from '@/components/DateFormatter'
 import { absoluteUrl } from '@/lib/utils'
 import { notFound } from 'next/navigation'
+import 'giscus';
+import GiscussComments from "@/components/GiscussComments";
+
 
 type Post = {
   tags: { value: string; label: string }[]
@@ -92,6 +95,7 @@ export default async function Post(params: Params) {
               dangerouslySetInnerHTML={{ __html: post.content }}
             />
           </div>
+          <GiscussComments />
         </article>
       </div>
     </Layout>
