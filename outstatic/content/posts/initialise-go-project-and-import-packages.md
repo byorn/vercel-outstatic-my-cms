@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/962948?v=4'
 slug: 'initialise-go-project-and-import-packages'
 description: 'How to initialise and import Go packages'
-coverImage: '/images/screenshot-2024-06-09-at-6.29.27-pm-EwNT.png'
+coverImage: '/images/images-g4MD.png'
 tags: [{"label":"Golang","value":"golang"}]
 publishedAt: '2024-06-09T08:50:22.852Z'
 ---
