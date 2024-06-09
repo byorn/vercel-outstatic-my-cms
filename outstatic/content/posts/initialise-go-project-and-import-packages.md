@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/962948?v=4'
 slug: 'initialise-go-project-and-import-packages'
 description: 'How to initialise and import Go packages'
-coverImage: ''
+coverImage: '/images/screenshot-2024-06-09-at-6.29.27-pm-EwNT.png'
 tags: [{"label":"Golang","value":"golang"}]
 publishedAt: '2024-06-09T08:50:22.852Z'
 ---
@@ -20,6 +20,7 @@ publishedAt: '2024-06-09T08:50:22.852Z'
   ```
 
   ![](/images/screenshot-2024-06-09-at-6.06.04-pm-I5Nj.png)
+
 - Add the dependency by importing it directly in your code
 
   *in main.go and func main method*
@@ -35,8 +36,10 @@ publishedAt: '2024-06-09T08:50:22.852Z'
   ```
 
   you might get the below error:
+
 - ![](/images/screenshot-2024-06-09-at-6.29.27-pm-A0Mz.png)
-- you should download the dependant package 
+
+- you should download the dependant package
 
   ```go
   > go get github.com.byorn/test-go-modules
@@ -51,4 +54,5 @@ publishedAt: '2024-06-09T08:50:22.852Z'
   ```
 
   [The dependant repository is: here](https://github.com/byorn/test-go-modules/blob/main/util/filereader.go)
+
 - ![](/images/screenshot-2024-06-09-at-6.41.44-pm-czNj.png)
