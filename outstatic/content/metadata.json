@@ -1,6 +1,6 @@
 {
-  "commit": "aefb5a6f4f95992d00938b703385f0af3210ec8e",
-  "generated": "2024-06-09T08:36:18.959Z",
+  "commit": "f5d0290ebed50e1aa32fda7061a6fe8b172b2278",
+  "generated": "2024-06-09T08:42:16.241Z",
   "metadata": [
     {
       "__outstatic": {
@@ -131,8 +131,8 @@
     },
     {
       "__outstatic": {
-        "commit": "aefb5a6f4f95992d00938b703385f0af3210ec8e",
-        "hash": "1354012731",
+        "commit": "f5d0290ebed50e1aa32fda7061a6fe8b172b2278",
+        "hash": "4070362034",
         "path": "outstatic/content/posts/initialise-go-project-and-import-packages.md"
       },
       "author": {
@@ -144,7 +144,7 @@
       "description": "How to initialise and import Go packages",
       "publishedAt": "2024-06-09T08:50:22.852Z",
       "slug": "initialise-go-project-and-import-packages",
-      "status": "draft",
+      "status": "published",
       "tags": [
         {
           "label": "Golang",
