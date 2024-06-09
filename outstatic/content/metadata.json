@@ -1,6 +1,6 @@
 {
-  "commit": "0f1d70afc51c6c15320e45b0c6ed70bb7fc13d03",
-  "generated": "2024-06-02T08:21:49.834Z",
+  "commit": "aefb5a6f4f95992d00938b703385f0af3210ec8e",
+  "generated": "2024-06-09T08:36:18.959Z",
   "metadata": [
     {
       "__outstatic": {
@@ -128,6 +128,30 @@
       "slug": "a-quick-overview-of-projects-i-worked-on-commercially",
       "status": "published",
       "title": "A quick overview of projects I worked on commercially."
+    },
+    {
+      "__outstatic": {
+        "commit": "aefb5a6f4f95992d00938b703385f0af3210ec8e",
+        "hash": "1354012731",
+        "path": "outstatic/content/posts/initialise-go-project-and-import-packages.md"
+      },
+      "author": {
+        "name": "Byorn John De Silva",
+        "picture": "https://avatars.githubusercontent.com/u/962948?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "How to initialise and import Go packages",
+      "publishedAt": "2024-06-09T08:50:22.852Z",
+      "slug": "initialise-go-project-and-import-packages",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "Golang",
+          "value": "golang"
+        }
+      ],
+      "title": "Initialise GO Project and Import Packages"
     }
   ]
 }
