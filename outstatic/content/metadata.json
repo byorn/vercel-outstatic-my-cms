@@ -1,6 +1,6 @@
 {
-  "commit": "31639b23cfe9eee42d8dca419309f376159d5875",
-  "generated": "2024-06-09T08:45:33.976Z",
+  "commit": "e5648be04062bd3597f09ab580ab4006bb768580",
+  "generated": "2024-06-14T11:34:10.113Z",
   "metadata": [
     {
       "__outstatic": {
@@ -152,6 +152,34 @@
         }
       ],
       "title": "Initialise GO Project and Import Packages"
+    },
+    {
+      "__outstatic": {
+        "commit": "e5648be04062bd3597f09ab580ab4006bb768580",
+        "hash": "2022232011",
+        "path": "outstatic/content/posts/nextjs-14-social-login-with-nextauth.md"
+      },
+      "author": {
+        "name": "Byorn John De Silva",
+        "picture": "https://avatars.githubusercontent.com/u/962948?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/social-media-card-g3Nj.png",
+      "description": "Get users to login with a github account . OAuth with Github flow.",
+      "publishedAt": "2024-06-14T12:13:58.116Z",
+      "slug": "nextjs-14-social-login-with-nextauth",
+      "status": "published",
+      "tags": [
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        },
+        {
+          "label": "NextAuth",
+          "value": "nextAuth"
+        }
+      ],
+      "title": "NextJS 14 Social Login with NextAuth"
     }
   ]
 }
