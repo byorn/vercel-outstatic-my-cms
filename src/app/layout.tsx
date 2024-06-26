@@ -4,17 +4,17 @@ import '../styles/index.css'
 import 'giscus';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://outstatic.com'),
+  metadataBase: new URL('https://cms.byorns-playground.com'),
   title: {
-    default: 'Outstatic',
-    template: '%s | Outstatic'
+    default: 'Byorns Playground',
+    template: '%s | Byorns-Playground'
   },
-  description: 'A blog starter built with Outstatic.',
+  description: 'Byorns technicle blog site',
   openGraph: {
-    title: 'Outstatic - A Static Site CMS for Next.js',
-    description: 'A blog starter built with Outstatic.',
+    title: 'Byorns playground  Next.js project built using outstatic',
+    description: 'Byorns technicle blog site built with nextjs',
     url: absoluteUrl('/'),
-    siteName: 'Next.js',
+    siteName: 'byorns-playground',
     images: [
       {
         url: absoluteUrl('/images/og-image.png'),
