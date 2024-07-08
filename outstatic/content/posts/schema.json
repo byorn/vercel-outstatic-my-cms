@@ -36,6 +36,10 @@
         {
           "value": "nextAuth",
           "label": "NextAuth"
+        },
+        {
+          "value": "ssl",
+          "label": "SSL"
         }
       ]
     }

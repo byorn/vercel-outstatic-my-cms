@@ -1,6 +1,6 @@
 {
-  "commit": "e5648be04062bd3597f09ab580ab4006bb768580",
-  "generated": "2024-06-14T11:34:10.113Z",
+  "commit": "773284e247988f26870c84b9662b0ddaba23a5bc",
+  "generated": "2024-07-08T04:49:26.907Z",
   "metadata": [
     {
       "__outstatic": {
@@ -180,6 +180,30 @@
         }
       ],
       "title": "NextJS 14 Social Login with NextAuth"
+    },
+    {
+      "__outstatic": {
+        "commit": "773284e247988f26870c84b9662b0ddaba23a5bc",
+        "hash": "1759965701",
+        "path": "outstatic/content/posts/setting-up-ssl-in-nginx-amazon-linux2.md"
+      },
+      "author": {
+        "name": "Byorn John De Silva",
+        "picture": "https://avatars.githubusercontent.com/u/962948?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/what-is-nginx-1024x512-ExNz.png",
+      "description": "How I set up SSL in my ec2 instance running Nginx",
+      "publishedAt": "2024-07-08T05:34:30.812Z",
+      "slug": "setting-up-ssl-in-nginx-amazon-linux2",
+      "status": "published",
+      "tags": [
+        {
+          "label": "SSL",
+          "value": "ssl"
+        }
+      ],
+      "title": "Setting up SSL in Nginx / Amazon Linux2"
     }
   ]
 }
