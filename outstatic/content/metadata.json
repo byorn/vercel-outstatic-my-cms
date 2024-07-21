@@ -1,6 +1,6 @@
 {
-  "commit": "773284e247988f26870c84b9662b0ddaba23a5bc",
-  "generated": "2024-07-08T04:49:26.907Z",
+  "commit": "c701c0501770bdf64eba84013ceb49705de3b9ef",
+  "generated": "2024-07-21T11:21:08.091Z",
   "metadata": [
     {
       "__outstatic": {
@@ -204,6 +204,24 @@
         }
       ],
       "title": "Setting up SSL in Nginx / Amazon Linux2"
+    },
+    {
+      "__outstatic": {
+        "commit": "c701c0501770bdf64eba84013ceb49705de3b9ef",
+        "hash": "914692792",
+        "path": "outstatic/content/projects/devs-bounty.md"
+      },
+      "author": {
+        "name": "Byorn John De Silva",
+        "picture": "https://avatars.githubusercontent.com/u/962948?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/image--2--g3MD.webp",
+      "description": "An app where devs can commit code for simple tasks and get paid for it.",
+      "publishedAt": "2024-07-21T12:18:24.458Z",
+      "slug": "devs-bounty",
+      "status": "published",
+      "title": "Devs Bounty"
     }
   ]
 }
