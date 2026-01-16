@@ -10,6 +10,10 @@ coverImage: '/images/projects-concept-black-chalkboard-d-rendering-handwritten-t
 publishedAt: '2024-06-02T09:08:38.022Z'
 ---
 
+- 2025 - 2026 - Restaurant digital menu boards
+
+- 2024 - 2025 - Banking Fraud detection
+
 - 2022 - 2024 - Online Insurance Claims
 
 - 2020 - 2022 - Banking wealth management product development
