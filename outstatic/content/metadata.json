@@ -1,6 +1,6 @@
 {
-  "commit": "aa6c525c5fc06f997c5bccd49a0e079403877044",
-  "generated": "2026-04-09T10:53:42.541Z",
+  "commit": "1939bc1d47d847658f806251a647bc6e983b7cf8",
+  "generated": "2026-04-09T11:02:40.631Z",
   "metadata": [
     {
       "__outstatic": {
@@ -183,26 +183,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d72eba8d6c6a022dab12c51f3e8776e7ef56aa51",
-        "hash": "3177217492",
-        "path": "outstatic/content/posts/ai-boosts-delivery-speed-but-it-can-quietly-destroy-your-codebase.md"
-      },
-      "author": {
-        "name": "Byorn John De Silva",
-        "picture": "https://avatars.githubusercontent.com/u/962948?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2026-04-09T11:49:19.464Z",
-      "slug": "ai-boosts-delivery-speed-but-it-can-quietly-destroy-your-codebase",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "AI Boosts Delivery Speed — But It Can Quietly Destroy Your Codebase"
-    },
-    {
-      "__outstatic": {
         "commit": "27c5bfb321121bc1911dfb5a79582cae9b7be8ec",
         "hash": "1982336161",
         "path": "outstatic/content/pages/home.md"
@@ -218,6 +198,30 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "1939bc1d47d847658f806251a647bc6e983b7cf8",
+        "hash": "1504301434",
+        "path": "outstatic/content/posts/ai-boosts-delivery-speed-but-it-can-quietly-destroy-your-codebase.md"
+      },
+      "author": {
+        "name": "Byorn John De Silva",
+        "picture": "https://avatars.githubusercontent.com/u/962948?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/screenshot-2026-04-09-at-8.59.28-pm-YwOT.png",
+      "description": "",
+      "publishedAt": "2026-04-09T11:49:19.464Z",
+      "slug": "ai-boosts-delivery-speed-but-it-can-quietly-destroy-your-codebase",
+      "status": "published",
+      "tags": [
+        {
+          "label": "AI",
+          "value": "ai"
+        }
+      ],
+      "title": "AI Boosts Delivery Speed — But It Can Quietly Destroy Your Codebase"
     }
   ]
 }

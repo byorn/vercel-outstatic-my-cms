@@ -6,8 +6,8 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/962948?v=4'
 slug: 'ai-boosts-delivery-speed-but-it-can-quietly-destroy-your-codebase'
 description: ''
-coverImage: ''
-tags: ''
+coverImage: '/images/screenshot-2026-04-09-at-8.59.28-pm-YwOT.png'
+tags: [{"label":"AI","value":"ai"}]
 publishedAt: '2026-04-09T11:49:19.464Z'
 ---
 

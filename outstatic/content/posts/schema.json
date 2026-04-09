@@ -40,6 +40,10 @@
         {
           "value": "ssl",
           "label": "SSL"
+        },
+        {
+          "value": "ai",
+          "label": "AI"
         }
       ]
     }
