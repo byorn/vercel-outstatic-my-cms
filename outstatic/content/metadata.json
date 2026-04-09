@@ -1,25 +1,7 @@
 {
-  "commit": "d72eba8d6c6a022dab12c51f3e8776e7ef56aa51",
-  "generated": "2026-04-09T10:50:17.324Z",
+  "commit": "27c5bfb321121bc1911dfb5a79582cae9b7be8ec",
+  "generated": "2026-04-09T10:53:20.015Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "ae45bec267ac8dd68a3f54d962b75174dec9330e",
-        "hash": "1433978812",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Byorn de Silva",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "/images/pxl_20230715_070207512-Y4MD.jpg",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
     {
       "__outstatic": {
         "commit": "ccbc81017c32144aa3d4ed41a84b55b057474378",
@@ -242,6 +224,24 @@
       "tags": [
       ],
       "title": "AI Boosts Delivery Speed — But It Can Quietly Destroy Your Codebase"
+    },
+    {
+      "__outstatic": {
+        "commit": "27c5bfb321121bc1911dfb5a79582cae9b7be8ec",
+        "hash": "1982336161",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Byorn de Silva",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "/images/pxl_20230715_070207512-Y4MD.jpg",
+      "description": "This is my blog.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }

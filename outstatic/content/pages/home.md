@@ -14,8 +14,4 @@ publishedAt: '2022-03-17T05:35:07.322Z'
 
 # I'm Byorn, nice to meet you.
 
-I am currently looking into contributing to this open source cms project [outstatic](https://outstatic.com/) which built using NextJS 14. This is what powers my blog. 
-
-Blogging and uploading tech youtube videos will be my new hobby.
-
-A late start is better than never at all !
+I am currently looking into contributing to this open source cms project [outstatic](https://outstatic.com/) which built using NextJS 14. This is what powers my blog.
