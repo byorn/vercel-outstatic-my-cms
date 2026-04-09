@@ -1,6 +1,6 @@
 {
-  "commit": "4a6ebfc61587c3cfe378826d51cbef27e5cfcb5b",
-  "generated": "2026-01-16T10:01:32.640Z",
+  "commit": "d72eba8d6c6a022dab12c51f3e8776e7ef56aa51",
+  "generated": "2026-04-09T10:50:17.324Z",
   "metadata": [
     {
       "__outstatic": {
@@ -222,6 +222,26 @@
         }
       ],
       "title": "What am I currently building ?"
+    },
+    {
+      "__outstatic": {
+        "commit": "d72eba8d6c6a022dab12c51f3e8776e7ef56aa51",
+        "hash": "3177217492",
+        "path": "outstatic/content/posts/ai-boosts-delivery-speed-but-it-can-quietly-destroy-your-codebase.md"
+      },
+      "author": {
+        "name": "Byorn John De Silva",
+        "picture": "https://avatars.githubusercontent.com/u/962948?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2026-04-09T11:49:19.464Z",
+      "slug": "ai-boosts-delivery-speed-but-it-can-quietly-destroy-your-codebase",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "AI Boosts Delivery Speed — But It Can Quietly Destroy Your Codebase"
     }
   ]
 }
